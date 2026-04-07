@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/linuxlab",
-      "program": "c:/linuxlab/build/Debug/outDebug",
+      "cwd": "c:/Users/acade/OneDrive/Documents/GitHub/tabish001-demo",
+      "program": "c:/Users/acade/OneDrive/Documents/GitHub/tabish001-demo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
